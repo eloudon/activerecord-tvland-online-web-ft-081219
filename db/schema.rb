@@ -36,4 +36,5 @@ ActiveRecord::Schema.define(version: 8) do
     t.string "day"
     t.string "season"
   end
+
 end
